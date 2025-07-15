@@ -2,49 +2,53 @@
 Petite présentation de ma personne 
 
 <div align="center">
-  <img src="https://your-gif.com/your-gif.gif" height="180"/>
-  <h1>Naax | Fullstack & Game Dev</h1>
-  <h3>Co-founder @ <a href="https://codexdrops.com">CodexDrops</a> & Creator of <a href="https://atherna.fr">Atherna</a></h3>
+  <img src="https://raw.githubusercontent.com/naxouille/assets/main/branding/atherna-glow.gif" height="180" />
+  <h1>Naax 🧠</h1>
+  <h3>Fullstack & Gaming Developer — Co-Founder of <a href="https://codexdrops.com">CodexDrops</a></h3>
+  <img src="https://raw.githubusercontent.com/naxouille/assets/main/banners/code-wave-dark.svg" width="100%" />
 </div>
 
 ---
 
-### 👨‍💻 Currently Building
+### 🚀 Projects in Motion
 
-- 🚀 [Atherna V2](https://atherna.fr)
-- 🎮 Game APIs for Lua / GTA Servers @ [CodexDrops](https://codexdrops.com)
+- 🎮 [**GtaRise**](https://atherna.fr/projets/gtarise) — Advanced GTA V RP server  
+- 🌀 [**Spinyx**](https://atherna.fr/projets/spinyx) — 100% free online casino  
+- ⚙️ [**Atherna V2**](https://atherna.fr) — Modern dev & gaming portfolio
 
 ---
 
 ### 🧠 Tech Stack
 
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Lua](https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naxouille&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=naxouille&theme=radical" height="150"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naxouille&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=naxouille&theme=tokyonight&hide_border=false" width="48%" />
+</p>
 
 ---
 
-### 🕹️ Featured Projects
+### 👥 Collabs
 
-| Project      | Description                             | Tech Stack                    |
-|-------------|-----------------------------------------|-------------------------------|
-| [Spinyx](https://atherna.fr/projets/spinyx) | Casino Web App 100% gratuit    | TypeScript, Tailwind, React   |
-| [GtaRise](https://atherna.fr/projets/gtarise) | Serveur GTA V RP avec systèmes avancés | Lua, Node.js, Gaming Scripts  |
+<p align="center">
+  <img src="https://img.shields.io/badge/Natyx-Infrastructure-blue?style=flat-square&logo=vercel" />
+  <img src="https://img.shields.io/badge/CodexDrops-Gaming Dev-purple?style=flat-square&logo=lua" />
+</p>
 
 ---
 
-### 🧪 Fun Stuff
+### ✨ About Me
 
-> “Sometimes I build backend APIs, sometimes I design interfaces, sometimes I just code all night on Lua.”
-
+```bash
+> whoami
+naxouille@dev:~$ A creative dev passionate about code & gaming.
